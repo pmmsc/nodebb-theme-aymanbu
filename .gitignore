@@ -12,6 +12,7 @@ public/css/*.css
 *.swp
 Vagrantfile
 .vagrant
+.DS_Store
 provision.sh
 *.komodoproject
 
