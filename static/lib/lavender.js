@@ -69,13 +69,13 @@ $('document').ready(function() {
 					$('.category-header .badge i').tooltip();
 				}
 
-				resize(fixed);
+				//resize(fixed);
 			}
 		});
 
-		if (!$('.admin').length) {
+		/*if (!$('.admin').length) {
 			setupResizer();
-		}
+		}*/
 
 		$(window).on('action:posts.loaded', function() {
 			doMasonry();
