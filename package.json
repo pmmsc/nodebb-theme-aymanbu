@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-theme-lavender",
-  "version": "0.1.12",
+  "name": "nodebb-theme-aymanbu",
+  "version": "0.0.1",
   "description": "Lavender Theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-lavender"
+    "url": "https://github.com/pmmsc/nodebb-theme-aymanbu"
   },
   "keywords": [
     "nodebb",
@@ -14,12 +14,12 @@
     "themes"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "psychobunny, yanniwen",
+    "email": "psycho.bunny@hotmail.com,yanni_wen@pmmsc.org"
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-lavender/issues"
+    "url": "https://github.com/pmmsc/nodebb-theme-aymanbu/issues"
   },
   "peerDependencies": {
     "nodebb-theme-vanilla": "~0.1.0"

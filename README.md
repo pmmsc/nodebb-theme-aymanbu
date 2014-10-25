@@ -20,7 +20,7 @@ A simple theme for NodeBB. Check out the theming guide that accompanies this wor
 
 ## Installation
 
-    npm install nodebb-theme-lavender
+    npm install nodebb-theme-aymanbu
 
 
 ## Credits
