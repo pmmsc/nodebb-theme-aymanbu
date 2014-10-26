@@ -21,7 +21,9 @@
 		var RELATIVE_PATH = "{relative_path}";
 	</script>
 	<script src="{relative_path}/nodebb.min.js?{script-buster}"></script>
-	<script>
+	<script type="text/javascript" src="/uploads/js/popwin.js"></script>
+	<link href="/uploads/css/sidebar.css" rel="stylesheet" type="text/css">
+    <script>
 		require.config({
 			baseUrl: "{relative_path}/src/modules",
 			waitSeconds: 3,
@@ -48,6 +50,9 @@
 		<div class="container">
 			<!-- IMPORT partials/menu.tpl -->
 		</div>
+		<div id="moquu_wxin" class="moquu_wxin"><a href="javascript:void(0)"><div class="moquu_wxinh"></div></a></div>
+        <div id="moquu_wshare" class="moquu_wshare"><a href="javascript:void(0)"><div class="moquu_wshareh"></div></a></div>
+        <a id="moquu_top" href="javascript:void(0)"></a>
 	</div>
 
 	<div class="container" id="content">
