@@ -21,8 +21,8 @@
 		var RELATIVE_PATH = "{relative_path}";
 	</script>
 	<script src="{relative_path}/nodebb.min.js?{script-buster}"></script>
-	<script type="text/javascript" src="/uploads/js/popwin.js"></script>
-	<link href="/uploads/css/sidebar.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="/js/popwin.js"></script>
+	<link href="/css/sidebar.css" rel="stylesheet" type="text/css">
     <script>
 		require.config({
 			baseUrl: "{relative_path}/src/modules",
