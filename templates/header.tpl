@@ -21,6 +21,7 @@
 		var RELATIVE_PATH = "{relative_path}";
 	</script>
 	<script src="{relative_path}/nodebb.min.js?{script-buster}"></script>
+	<script type="text/javascript" src="/js/detect.min.js"></script>
 	<script type="text/javascript" src="/js/popwin.js"></script>
 	<link href="/css/sidebar.css" rel="stylesheet" type="text/css">
     <script>
