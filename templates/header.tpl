@@ -52,8 +52,8 @@
 			<!-- IMPORT partials/menu.tpl -->
 		</div>
 		<div id="moquu_wxin" class="moquu_wxin"><a href="javascript:void(0)"><div class="moquu_wxinh"></div></a></div>
-        <div id="moquu_wshare" class="moquu_wshare"><a href="javascript:void(0)"><div class="moquu_wshareh"></div></a></div>
-        <a id="moquu_top" href="javascript:void(0)"></a>
+		<div id="moquu_wshare" class="moquu_wshare"><a href="javascript:void(0)"><div class="moquu_wshareh"></div></a></div>
+		<a id="moquu_top" href="javascript:void(0)"></a>
 	</div>
 
 	<div class="container" id="content">
